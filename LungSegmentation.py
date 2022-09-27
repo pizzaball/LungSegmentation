@@ -17,8 +17,8 @@ from keras.callbacks import LearningRateScheduler, ModelCheckpoint
 Загрузка и оптимизация размеров
 '''
 
-IMAGE_LIB = '../input/2d_images/'
-MASK_LIB = '../input/2d_masks/'
+IMAGE_LIB = '../Downloads/2d_images/'
+MASK_LIB = '../Dwonloads/2d_masks/'
 IMG_HEIGHT, IMG_WIDTH = 32, 32
 SEED=42
 
